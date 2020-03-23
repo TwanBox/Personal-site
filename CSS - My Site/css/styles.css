@@ -1,0 +1,111 @@
+h1  {
+    margin: 0px;
+    font-family: 'Sacramento', cursive;
+    color: #4ab19a;
+    font-size: 100px;
+    
+}
+body {
+    margin: 0px;
+    font-family: 'Baloo Paaji 2', cursive;
+    color: #4ab19a;
+}
+p {
+    font-family: serif;
+    font-size: 22px;
+    color: #545454;
+}
+hr {
+    border-top: 5px dotted lightgray;
+    width: 60px;
+    position: relative;
+    bottom: 35px;
+    
+}
+.top-container {
+    background-color: #e0ebe8;
+}
+.middle-container {
+    padding: 0px 720px 0px 720px;
+}
+.bottom-cloud {
+    position: absolute;
+    top: 320px;
+    right: 65%;
+}
+.top-container {
+    text-align: center;
+    padding-top: 220px;
+}
+.top-cloud {
+    position: absolute;
+    left: 67%;
+    top: 20%;
+}
+.profile {
+    text-align: center;
+    padding-top: 20px;
+}
+.skills {
+    text-align: center;
+}
+.contact-me {
+    text-align: center;
+}
+.bottom-container {
+    height: 100px; 
+    text-align: center;
+    background-color: #c5ded7;
+    padding-top: 50px;
+}
+.footer-link {
+    padding: 30px;
+}
+.contact-me {
+    padding-bottom: 70px;
+
+}
+.land {
+    position: relative;
+    top: 10px;
+}
+.a-programmer {
+    position: relative;
+    bottom: 25px;
+    color: #4ab19a;
+    font-family: sans-serif;
+}
+.profile {
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+.my-skills {
+    color: #1e836c;
+}
+.skill-row {
+    padding-bottom: 100px;
+    padding-top: 75px;
+}
+.my-skills {
+    color: #1e836c;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    position: relative;
+    top: 20px;
+}
+.copyright {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer-link {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color:  #4ab19a;
+}
+a:hover {
+    cursor: pointer;
+}
+.get-in-touch {
+    color:  #1e836c;
+    font-size: 34px;
+}
